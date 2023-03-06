@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 3 root root  4096 Mar  6 01:46 .
+drwxr-xr-x 6 root root   145 Mar  5 17:27 ..
+-rwxr-xr-x 1 root root    32 Mar  3 06:45 0-hello_world
+-rwxr--r-- 1 root root    28 Mar  5 17:56 1-confused_smiley
+-rwxr--r-- 1 root root    29 Mar  5 18:11 2-hellofile
+-rwxr--r-- 1 root root    39 Mar  5 18:13 3-twofiles
+-rwxr--r-- 1 root root    29 Mar  5 18:24 4-lastlines
+-rwxr--r-- 1 root root    29 Mar  5 18:28 5-firstlines
+-rwxr--r-- 1 root root    38 Mar  5 23:12 6-third_line
+-rwxr--r-- 1 root root    92 Mar  6 01:37 7-file
+-rw-r--r-- 1 root root 12288 Mar  6 01:38 .7-file.swp
+-rw------- 1 root root 12288 Mar  6 01:46 .8-cwd_state.swp
+drwxr-xr-x 6 root root   104 Mar  3 05:31 alx-system_engineering-devops
+-rw-r--r-- 1 root root     0 Mar  6 01:04 \*\'Best
+-rw-r--r-- 1 root root     0 Mar  6 01:25 \*\\"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Mar  6 01:24 \*\\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Mar  6 01:46 ls_cwd_content
+-rw-r--r-- 1 root root    12 Mar  3 05:36 README.md
+-rw-r--r-- 1 root root     0 Mar  6 01:04 School\'\*$\?\*\*\*\*\*:)
