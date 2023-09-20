@@ -1,2 +1,2 @@
 #!/bin/bash
-(touch my_script) (chmod +x my_script)
+mkdir -m 751 my_dir
